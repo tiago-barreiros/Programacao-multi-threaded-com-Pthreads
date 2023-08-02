@@ -1,0 +1,3 @@
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/UBI/ANO_2/2Semestre/Sistemas Operativos/Pratica/P9/cmake-build-debug/CMakeFiles/P9.dir
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/UBI/ANO_2/2Semestre/Sistemas Operativos/Pratica/P9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tiago/OneDrive/Ambiente de Trabalho/UBI/ANO_2/2Semestre/Sistemas Operativos/Pratica/P9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
